@@ -208,7 +208,7 @@ int main(int argc, char *argv[])
 Zkuste:
 
 ```
-$ ./navelka /home/machac/cvicne/alice.txt
+$ ./navelka ~/cvicne/alice.txt
 ```
 
 ## Příkaz `return`
